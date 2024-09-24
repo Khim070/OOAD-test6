@@ -14,5 +14,6 @@ namespace productlib
         Jewelry = 4,
         MakeUp = 8,
         Vehicle = 16,
+        Cloth = 32,
     }
 }

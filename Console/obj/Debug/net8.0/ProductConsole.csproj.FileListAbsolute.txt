@@ -16,3 +16,4 @@ C:\Users\palav\source\repos\ProductPricing\console\obj\Debug\net8.0\refint\Produ
 C:\Users\palav\source\repos\ProductPricing\console\obj\Debug\net8.0\ProductConsole.pdb
 C:\Users\palav\source\repos\ProductPricing\console\obj\Debug\net8.0\ProductConsole.genruntimeconfig.cache
 C:\Users\palav\source\repos\ProductPricing\console\obj\Debug\net8.0\ref\ProductConsole.dll
+C:\Users\palav\source\repos\ProductPricing\console\obj\Debug\net8.0\ProductConsole.sourcelink.json

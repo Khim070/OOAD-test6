@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{AE3B8967-89C3-4E41-BA25-A6E357776F29}|console\\ProductConsole.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|c:\\users\\palav\\source\\repos\\productpricing\\library\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|solutionrelative:library\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|c:\\users\\palav\\source\\repos\\productpricing\\library\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|solutionrelative:library\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|c:\\users\\palav\\source\\repos\\productpricing\\library\\productcreatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|solutionrelative:library\\productcreatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|c:\\users\\palav\\source\\repos\\productpricing\\library\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|solutionrelative:library\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|c:\\users\\palav\\source\\repos\\productpricing\\library\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46BF77-5266-43B4-B801-A62659913B38}|library\\productlib.csproj|solutionrelative:library\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductService.cs",
+              "RelativeDocumentMoniker": "library\\ProductService.cs",
+              "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductService.cs",
+              "RelativeToolTip": "library\\ProductService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:56:05.427Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,61 +41,9 @@
               "RelativeDocumentMoniker": "Console\\Program.cs",
               "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T17:04:54.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductResponse.cs",
-              "DocumentMoniker": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductResponse.cs",
-              "RelativeDocumentMoniker": "library\\ProductResponse.cs",
-              "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductResponse.cs",
-              "RelativeToolTip": "library\\ProductResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:03:45.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\Product.cs",
-              "RelativeDocumentMoniker": "library\\Product.cs",
-              "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\Product.cs",
-              "RelativeToolTip": "library\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:02:24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductCreateReq.cs",
-              "DocumentMoniker": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductCreateReq.cs",
-              "RelativeDocumentMoniker": "library\\ProductCreateReq.cs",
-              "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\ProductCreateReq.cs",
-              "RelativeToolTip": "library\\ProductCreateReq.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:00:52.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\Category.cs",
-              "RelativeDocumentMoniker": "library\\Category.cs",
-              "ToolTip": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\Category.cs",
-              "RelativeToolTip": "library\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:59:41.443Z",
               "EditorCaption": ""
             }
           ]
